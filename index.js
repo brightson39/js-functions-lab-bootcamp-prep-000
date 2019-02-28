@@ -2,7 +2,7 @@
 
 function happyHolidays(String){
   if (string===string)
-return String
+return "Happy Holidays!"
 }
 
 
