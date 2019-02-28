@@ -1,7 +1,6 @@
 // write your code below!
 
-function happyHolidays(String){
-  if (string===string)
+function happyHolidays(){
 return "Happy Holidays!"
 }
 
